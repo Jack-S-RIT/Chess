@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\jacks\\Coding Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\jacks\\Coding Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\jacks\\Coding Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\jacks\\Coding Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\jacks\\Coding Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\jacks\\Coding Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\jacks\\Coding Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.web.jar",
+        "c:\\Users\\jacks\\Coding Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\jacks\\Coding_Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\jacks\\Coding_Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\jacks\\Coding_Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\jacks\\Coding_Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\jacks\\Coding_Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\jacks\\Coding_Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\jacks\\Coding_Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx.web.jar",
+        "c:\\Users\\jacks\\Coding_Projects\\java\\javafx-sdk-18.0.1\\lib\\javafx-swt.jar"
+    ],
+    "cSpell.words": [
+        "Calibri"
+    ]
+}
